@@ -1,0 +1,6 @@
+category:data
+filename:Malayalam-Poem-Syllable-Duration-Dataset.csv
+weight:1
+title:Malayalam Poem Syllable Duration
+description: This is a dataset to model the duration of syllables in Malayalam Poem
+type:text/csv
